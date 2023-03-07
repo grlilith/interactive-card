@@ -1,0 +1,214 @@
+body{
+    background-color: aliceblue;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Space Grotesk', sans-serif;
+   
+}
+.fundi{
+    width: 600px;
+    height: 950px;
+    background-image:url(images/bg-main-desktop.png);
+    background-size: cover;
+    
+    
+}
+.cartao{
+    width: 500px;
+    height: 280px;
+    background-image:url(images/bg-card-front.png);
+    background-size: cover; 
+    top:230px ;
+    position: absolute;
+    border-radius: 10px;
+    left: 250px;
+}
+.cartao2{
+    width: 500px;
+    height: 280px;
+    background-image:url(images/bg-card-back.png);
+    background-size: cover; 
+    top:550px ;
+    position: absolute;
+    border-radius: 10px;
+    left: 370px;
+}
+
+.text1{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    position: absolute;
+    left: 790px;
+    top: 677px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.text2{
+    color: rgb(255, 255, 255);
+    font-size: 36px;
+    position: absolute;
+    left: 290px;
+    top: 388px;
+    font-family: 'Space Grotesk', sans-serif;
+}
+
+.bolinha{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 100px;
+    position:absolute;
+    top: 260px;
+    left: 289px;
+}
+
+.bolinha2{
+    height: 29px;
+    width: 29px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 100px;
+    position:absolute;
+    top: 270px;
+    left: 350px;
+}
+
+.bolinha3{
+    height: 25px;
+    width: 25px;
+    background-color: rgb(119, 40, 255);
+    border-radius: 100px;
+    position:absolute;
+    top: 272px;
+    left: 352px;
+}
+
+.letra{
+    color: rgb(255, 255, 255);
+    font-size: 17px;
+    position: absolute;
+    left: 290px;
+    top: 458px;
+    font-family: 'Space Grotesk', sans-serif;
+    
+}
+.letra2{
+    color: rgb(255, 255, 255);
+    font-size: 20Px;
+    position: absolute;
+    left: 670px;
+    top: 458px;
+    font-family: 'Space Grotesk', sans-serif;
+}
+.botao{
+    height: 60px;
+    width: 410px;
+    background-color: rgb(22, 22, 44);
+    color: aliceblue;
+    border-radius: 10px;
+    font-size: 19px;
+    position: absolute;
+    left: 1109px;
+    top: 672px;
+    transition: 1s;
+}
+.botao:hover{
+    background-image: url(images/bg-card-front.png);
+  
+}
+
+.textb{
+    height: 50px;
+    width: 410px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+    font-size: 19px;
+    position: absolute;
+    border-color: rgba(0, 0, 0, 0.257);
+    left: 1109px;
+    top: 470px;
+}
+
+
+.textbb{
+    height: 50px;
+    width: 410px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+    font-size: 19px;
+    position: absolute;
+    border-color: rgba(0, 0, 0, 0.162);
+    left: 1109px;
+    top: 364px;
+}
+
+.textc{
+    height: 50px;
+    width: 150px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+    font-size: 19px;
+    position: absolute;
+    border-color: rgba(0, 0, 0, 0.213);
+    left: 1369px;
+    top: 574px;
+}
+.textcc{
+    height: 50px;
+    width: 100px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+    font-size: 19px;
+    position: absolute;
+    border-color: rgba(0, 0, 0, 0.186);
+    left: 1109px;
+    top: 574px;
+}
+.textccc{
+    height: 50px;
+    width: 100px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+    font-size: 19px;
+    position: absolute;
+    border-color: rgba(84, 69, 69, 0.159);
+    left: 1239px;
+    top: 574px;
+}
+ .t1{
+    color: rgb(0, 0, 0);
+    font-size: 17px;
+    position: absolute;
+    left: 1120px;
+    top: 330px;
+    font-stretch: condensed;
+ }   
+
+ .t2{
+    color: rgb(0, 0, 0);
+    font-size: 17px;
+    position: absolute;
+    left: 1120px;
+    top: 440px;
+    font-stretch: condensed;
+ }   
+ .t3{
+    color: rgb(0, 0, 0);
+    font-size: 17px;
+    position: absolute;
+    left: 1120px;
+    top: 540px;
+    font-stretch: condensed;
+ }   
+ .t4{
+    color: rgb(0, 0, 0);
+    font-size: 17px;
+    position: absolute;
+    left: 1380px;
+    top: 540px;
+    font-stretch: condensed;
+ } 
